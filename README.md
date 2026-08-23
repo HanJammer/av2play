@@ -37,7 +37,7 @@ cart menu.
 ## Screenshots
 | | |
 |---|---|
-| ![AVF-C80 true-colour video playback](https://github.com/HanJammer/av2play/blob/main/images/av2play-apac-video.jpg) | ![AVF2 info screen](https://github.com/HanJammer/av2play/blob/main/images/av2play-info-screen.jpg) |
+| ![AVF-C80 true-colour video playback](https://github.com/HanJammer/av2play/blob/main/images/av2play-c80-truecolor-video.jpg) | ![AVF2 info screen](https://github.com/HanJammer/av2play/blob/main/images/av2play-info-screen.jpg) |
 | ![APAC video playback](https://github.com/HanJammer/av2play/blob/main/images/av2play-apac-video.jpg) | ![Help screen](https://github.com/HanJammer/av2play/blob/main/images/av2play-help-screen.jpg) |
 
 ## Install
