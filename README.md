@@ -35,11 +35,10 @@ cart menu.
 > wrong - they need a GTIA2RGB and this player for true colour.
 
 ## Screenshots
-![FujiATC in 40-col GTIA2RGB mode](https://github.com/HanJammer/FujiATC/blob/main/images/fujiatc_v0.8_40col.jpg)
 | | |
 |---|---|
 | ![AVF-C80 true-colour video playback](https://github.com/HanJammer/av2play/blob/main/images/av2play-apac-video.jpg) | ![AVF2 info screen](https://github.com/HanJammer/av2play/blob/main/images/av2play-info-screen.jpg) |
-| ![APAC video playback](https://github.com/HanJammer/av2play/blob/main/images/0av2play-apac-video.jpg) | ![Help screen](https://github.com/HanJammer/av2play/blob/main/images/av2play-help-screen.jpg) |
+| ![APAC video playback](https://github.com/HanJammer/av2play/blob/main/images/av2play-apac-video.jpg) | ![Help screen](https://github.com/HanJammer/av2play/blob/main/images/av2play-help-screen.jpg) |
 
 ## Install
 
