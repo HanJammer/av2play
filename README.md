@@ -7,7 +7,7 @@ Companion to the [avi2atari AVF Suite](https://github.com/HanJammer/avi2atari)
 - converter, web UI, PC player, validator and metadata editor.
 
 > **Experimental release.** This drop ships the **`bin/AVFPLAY` binary only**
-> (v1.12). The full source will be published once the menu player
+> (v1.13). The full source will be published once the menu player
 > (`AV2PLAY.XEX`) also works on hardware.
 
 ## AVFPLAY - the card-native player
@@ -17,8 +17,10 @@ SUB CART** root (native mode): copy it to the card, pick an `.avf`, it plays.
 Same proven beam-raced movplay core (Avery Lee / tmp / Jakub Husak
 smooth-sound), plus:
 
-- **AVF-C80 true-colour playback** (GTIA2RGB COL80 Mode 4, 80x48 RGB444) -
-  real RGB video on a stock A8 with a GTIA2RGB. *(new, working)*
+- **AVF-C80 true-colour playback** (GTIA2RGB COL80 Mode 4) - real RGB
+  video on a stock A8 with a GTIA2RGB: classic 80x48 RGB444, plus the new
+  **C80/BTC** variant with 160x96 subpixel detail at the SAME bitrate
+  (AVF2 v2; `--profile c80btc` in the converter). *(new, working)*
 - **APAC playback** - the classic profile, plays on every Atari.
 - **AVF2 info screen** (`I`, while paused or playing): title, author, length,
   system, profile - 80-column COL80 when a GTIA2RGB is present, 40-column
